@@ -18,16 +18,16 @@ source-code: https://github.com/CollectionBuilder/collectionbuilder-csv
 # SITE SETTINGS
 #
 # title of site appears in banner
-title: CollectionBuilder CSV
+title: Fort Ticonderoga Historic Rare Books Collection
 # tagline, a short phrase that will appear throughout the site in the top banner
-tagline: Digital Collection Magic with Static Web Technologies
+tagline: Internal Database
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
-description: "CollectionBuilder-CSV is a template for creating digital collection exhibits using static web technology."
+description: "Built by 2026 Edward W. Pell Archives Graduate Fellow Morgan Smith."
 # keywords, a short list of subjects describing the collection, separated by semicolon, to appear in rich markup
-keywords: idaho; history; inland northwest
+keywords: 
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
-author: CollectionBuilder
+author: Morgan Smith
 
 ##########
 # COLLECTION SETTINGS
@@ -50,11 +50,11 @@ metadata: Historic_Collection_Inventory_Comprehensive_8_9_2026
 #
 # Enter name and link for your organization (replacing the name and links below)
 # These values will be used in attribution and data 
-organization-name: "Center for Digital Inquiry and Learning (CDIL)"
-organization-link: https://cdil.lib.uidaho.edu/
+organization-name: "Fort Ticonderoga"
+organization-link: https://fortticonderoga.org/
 # Add logo image links if you would like them to appear in banner and footer. Delete or leave blank to remove logos.
-organization-logo-banner: https://www.lib.uidaho.edu/collectionbuilder/cdil-black.png
-organization-logo-nav: https://www.lib.uidaho.edu/collectionbuilder/cdil-white.png
+organization-logo-banner: https://fortticonderoga.org/wp-content/uploads/2023/03/fort-ticonderoga-logo-vector.png
+organization-logo-nav: https://fortticonderoga.org/wp-content/uploads/2023/03/fort-ticonderoga-logo-vector.png
 
 ##########
 # ROBOTS EXCLUDE
