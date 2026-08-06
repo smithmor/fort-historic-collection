@@ -1,10 +1,17 @@
 field,display_name,browse_link,external_link,dc_map,schema_map
+name,Name,,,,
 title,Title,,,DCTERMS.title,headline
 creator,Creator,,,DCTERMS.creator,creator
 date,Date Created,,,DCTERMS.date,dateCreated
+date_range, Date Range,,,,
 description,Description,,,DCTERMS.description,description
 subject,Subjects,true,,DCTERMS.subject,keywords
+condition_notes,Condition Notes,,,,
 location,Location,,,DCTERMS.coverage,contentLocation
+building,Building,,,,
+room,Room,,,,
+wall_row,Wall/Row,,,,
+shelf,Shelf,,,,
 latitude,Latitude,,,,
 longitude,Longitude,,,,
 source,Source,,,,
@@ -13,3 +20,4 @@ type,Type,,,DCTERMS.type,
 format,Format,,,,encodingFormat
 language,Language,,,DCTERMS.language,
 rightsstatement,,,,DCTERMS.rights,license
+notes,Notes,,,,
